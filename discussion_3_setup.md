@@ -43,7 +43,7 @@ Link: https://github.com/DL4DS/fa2026_discussions/blob/main/discussion_3.ipynb
 ### 3. Import the dataset from shared folder and run a shallow network for training
 
 ```python
-df = pd.read_csv('/projectnb/dl4ds/materials/datasets/diabetes.csv')
+df = pd.read_csv('/projectnb/dl4ds/materials/datasets/pima-indians-diabetes-dataset/diabetes.csv')
 ```
 
-The dataset is the same one from your `hw3` question 2-3, this step is to tell how you can read files from shared  folders. For example, for your group projects, you can upload datasets under `/projectnb/dl4ds/projects/` directory.
+The dataset is the same one from your `hw3` question 2-3, this step is to tell how you can read files from shared  folders.
